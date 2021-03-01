@@ -12,10 +12,11 @@ My major project (dissertation aside) right now is the transformation and cleani
 ## Plain Text Nonius Conventions
 
 * <<!!>> brackets app crit
-<<&&>> brackets page headers
-<<@>> sets off CAPITAL headwords
-?# sets off subheadings
-@ introduces a quote
+* <<&&>> brackets page headers
+* <<@>> sets off CAPITAL headwords
+* !!! introduces definition
+* ?# sets off subheadings
+* @ introduces a quote
 
 # Plain Text, Nonius Marcellus, Book 4 (Lindsay 1903 edition)
 
