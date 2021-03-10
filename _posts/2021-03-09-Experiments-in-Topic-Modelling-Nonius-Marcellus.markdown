@@ -57,3 +57,5 @@ This model came up with topics I likewise couldn't make sense of, just as with N
 
 I don't really have any. I had no issues running the tool, but coming up with meaningful results is another story. I wonder if increasing my sample and text size from individual entry to all entries under one letter would help. Having a list of stopwords definitely would-- but unless I make every headword a stopword, which will create a problem when a headword is used in the citation or definition of an unrelated headword, will this result in topics dominated by the headword? I also wonder about finding an adequate referent. Since Nonius is writing, well, using citations of Republican Latin, any Republican text like Cicero might cause issues, since Cicero is a topic of Nonius'. 
 
+ETA: I didn't know how to spell Modeling, went with a double L, and lost
+
