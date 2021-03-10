@@ -13,6 +13,8 @@ I'm a fifth year PhD candidate in Classics at Florida State University. My main 
 
 Other interests and pursuits of mine are powerlifting, alligator spotting, kayaking, reading (non-Classically), and visual art. Two cats frequently appear in my Zoom classes, Terry Gross and Meatball. 
 
+![Terry Zooms](/evacarrara/assets/evaandterry.jpg)
+
 # Links
 
 * [FSU page](https://classics.fsu.edu/people/graduate-students/carrara)
