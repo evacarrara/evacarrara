@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Wikidata"
+date:   2021-03-16 3:55:00 -0500
+categories: 
+---
+
+# Wikidata
+
+This week, after doing the tutorials and browsing a little, I first decided to use the Wikidata Query tool to try to compile a list of Cicero's works with dates. Using the helper (info button) I filtered author > Cicero and instance of > literary work, and then 'show' date of publication. This generated an okayish table. Many of the works did not have dates entered (for good reason, as these are often not secure, and Wikidata 'date' seems to need a month, day, etc.). The bigger problem with this, though, is an item called [Writings of Cicero](https://www.wikidata.org/wiki/Q3594159). This item seems to be generated from the Wikipedia [page](https://en.wikipedia.org/wiki/Writings_of_Cicero) on the same topic, but while the page is very useful, the item is not, since it groups other items under it, and uses some statements not appropriate to the type of item (e.g. occupation). I also was not getting all of the items I should turn up (e.g., *de consulatu suo*, Cicero's poem about his own consulship, did not appear in the results, though it is a Wikidata item with Cicero as author- I did go in and add 'literary work' to 'instance of' later). One other thing I did go through and change here is to add 'dialogue' as a genre to the *De Sen*, *De Am*, and *De Or* items. 
+
+I decided to try with something else and less subjective, a list of antiquarians, and then of lexicographers, who wrote in Latin, with their birthdates, places of birth, and notable works as items for the table. This captured my boy Nonius and interestingly much later authors like Lewis of Lewis and Short Latin dictionary fame. I downloaded this CSV, as it might come in handy later.
+
+Finally, I pulled up Cato, and found his [item page](https://www.wikidata.org/wiki/Q180081). I thought it weird that his father wasn't listed, but realized I'd have to make a whole item for his dad to then link it, and decided to instead add his grandson, C. Porcius Cato, since he 1) already is an 'item' and 2) I could easily link the source, the [Digital Prosopography of the Roman Republic](https://romanrepublic.ac.uk/). I also added the *Origines* to notable works, which probably should have already been linked, but that might be pretty subjective coming from a historian who works on that text.
+
+Overall I found the Wikidata universe confusing. There are a lot of really, really questionable categories being employed, like 'high Roman empire' or linking someone to citizenship 'Ancient Rome' instead of a time period 'Roman Republic' (which itself is not frequently used- instead you have to switch between 2nd/1st centuries, late and middle rep., etc). Or even 'essay' for genre of writing for a dictionary or historical work. I have two main takeaways:
+
+1. The problems with categorization, missing items, etc. can all be fixed, and probably should be, so this isn't as simple as downloading a chart, but will probably always involve some editing, etc.
+2. I thought the help interface was clunky, and if I were to work more with Wikidata would want to learn SPARQL better. 
+
