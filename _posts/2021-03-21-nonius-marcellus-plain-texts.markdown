@@ -5,7 +5,6 @@ date:   2021-03-23 10:15:00 -0500
 categories: 
 ---
 
-# Nonius Marcellus Plain Texts
 
 On my [repository](https://github.com/evacarrara/republatfrags) I've posted my work in progress but the text is much more usable than when I got it. I explain a bit about the structure of the ancient work below, the cleaning process/structure of the plain text, and give an example of the possibilities of enriching the plain text. If you've found this page, feel free to use the plain text, but please credit me!
 
