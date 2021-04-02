@@ -20,10 +20,11 @@ What I've done is basically take the plain text and regex it to death, using the
 The following are columns in the tsv and their descriptions:
 * definition: this is the definition of the headword as Nonius has it. Unchanged beyond basic cleaning and messy.
 * headword: the Latin word under which the definition and all citations in a record fall. I have slightly regularized these
-** passive infinitives clustered with actives; inflected endings clustered under whichever was the most common. I did not substantially change endings where cluster and edit did not recognize them, so things like *accomodatum* and *accomodare* are separate entries as of now.
+	* passive infinitives clustered with actives; inflected endings clustered under whichever was the most common. I did not substantially change endings where cluster and edit did not recognize them, so things like *accomodatum* and *accomodare* are separate entries as of now.
 * author: this is the person cited as Nonius (and in some cases Lindsay) has them. This means there's a lot of *idem* and *et* referring to a previous entry, so...	
 * authorregularized: I regularized authors and turned *idem* etc into nulls and then did fill down. This probably has resulted in an erroneous entry or two, but more usable than a bunch of the same...who??
-* title: of work as Nonius prints it. These vary wildly, and sometimes (especially in the case of the most frequently cited authors) are not given or assumed (Vergil lib. XI doesn't need a title, since it has to be the *Aeneid* based on work division.)	
+* title: of work as Nonius prints it. 
+	* These vary wildly, and sometimes (especially in the case of the most frequently cited authors) are not given or assumed (Vergil lib. XI doesn't need a title, since it has to be the *Aeneid* based on work division.)	
 * titleregularized: I've started regularizing the titles (Aeneidos, Aen. both become Aeneid; etc.). This will take a lot more effort to be really usable because of the nulls, since filling down won't work the same way it did for author.
 * book: this is book number if applicable. I've turned most of them into Arabic numerals so that they have more functionality than a text string.
 * passage: the chapter, line, or fragment number. Messy.	
