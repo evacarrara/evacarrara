@@ -27,10 +27,35 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 twitter_username: fulviusmobilior
 github_username:  evacarrara
 
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
+- title: CV
+  url: /CV/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+
 # Build settings
-theme: minima
+remote_theme: daviddarnes/alembic@main
 plugins:
-  - jekyll-feed
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

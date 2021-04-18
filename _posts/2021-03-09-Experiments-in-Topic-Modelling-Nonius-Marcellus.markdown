@@ -5,8 +5,6 @@ date:   2021-03-09 6:51:21 -0500
 categories: 
 ---
 
-# Experiments in Topic Modelling Nonius Marcellus
-
 I worked with my sample set (the entries in Nonius Marcellus, Book IV, under Letter E) this week to try some basic topic modelling. I used the Topic Modelling Tool and the [Quickstart Guide](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) here. I should preface this that I have no clue really what topic modelling is even after reading Underwood's book and [blog](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/). My basic steps:
 
 * first, I split my cleaned plain text into 27 files by headword (so *eligere*, or *evadere*, e.g.). 
