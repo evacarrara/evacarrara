@@ -14,7 +14,7 @@ Tallahassee, FL, 32306-1510
 emc16f@my.fsu.edu or evacarrara1@gmail.com 
 
 # EDUCATION 
-* Ph.D. in Classics, Florida State University (2016 - 2022 (expected))
+* Ph.D. in Classics, Florida State University (2016 - 2022 expected)
 	* Dissertation in progress: “Cato in Cicero: Reading Roman History in the Late Republic”
 	* Director: Jessica Clark 
 * Classical Summer School, the American Academy in Rome (2019)
@@ -23,17 +23,17 @@ emc16f@my.fsu.edu or evacarrara1@gmail.com
 	* Minor in Classical Studies
 
 # ACADEMIC INTERESTS
-Greek and Latin historiography; Roman cultural history; ancient gender and sexuality
+Greek and Latin historiography; Roman cultural history; ancient gender and sexuality; digital humanities
 
 # CONFERENCE PRESENTATIONS
 
-* "Creating Kyniska: The Reception of the First Female Olympic Victor," forthcoming at the 2021 meeting of the [Association of Ancient Historians](https://classics.illinois.edu/research/conferences-and-workshops/2021-meeting-association-ancient-historians-held-uiuc)
+* "Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative," upcoming, Feminism and Classics, May 19-22, 2022 (postponed from 2020 due to COVID-19)
+
+* "Creating Kyniska: The Reception of the First Female Olympic Victor," Annual Meeting of the [Association of Ancient Historians](https://classics.illinois.edu/research/conferences-and-workshops/2021-meeting-association-ancient-historians-held-uiuc), May 8, 2021
 
 * “Roman Women’s Useful Knowledge: Historical Examples in Women’s Speech in Dionysius of Halicarnassus,” SCS virtual meeting, January 2021
 
 * “Cato as Exemplary Historian in Against Verres,” CAMWS virtual meeting, May 27, 2020
-
-* “Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative,” paper accepted, Feminism and Classics 2020 (postponed to May 2022 due to COVID-19)
 
 * “Innovations to Divine Intervention in Amores 1.1,” CAMWS annual meeting in Albuquerque, New Mexico, April 14, 2018
 
@@ -41,6 +41,7 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 		
 # AWARDS, FELLOWSHIPS, GRANTS
 
+* FSU Thompson Dissertation Fellowship (2021-2022)
 * Honorable Mention, Presidential Award for Outstanding Graduate Student Paper, CAMWS (2020)
 * FSU Department of Classics Rankin Prize for Outstanding Graduate Student (2019)
 * FSU M. Lynette Thompson Fellowship in Latin Studies (2019)
@@ -58,6 +59,8 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 	* Summer 2017
 * Introduction to Latin Literature (intermediate/3rd semester)
 	* Fall 2017, Spring 2018, Fall 2018, remotely Fall 2020 and Spring 2021
+* Readings in Greek Literature (Lucian)
+	* Summer 2021
 
 #### LECTURE COURSES (SOLE INSTRUCTOR, FLORIDA STATE UNIVERSITY):
 * Debates About the Past: Roman Civilization, History, and Culture 
@@ -82,6 +85,7 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 
 # ADDITIONAL EXPERIENCE
 
+* Volunteer, Open Greek and Latin Project, CHS (Summer 2021)
 * Department Representative, FSU, Graduate Assistants United (2018 – present)
 * Research Assistant, Prof. Francis Cairns (Fall 2016)
 * Certification, Program in Instructional Excellence, FSU (2016)
@@ -96,6 +100,6 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 # LANGUAGES
 
 Reading: Latin, Ancient Greek, Italian (advanced)
-German, French, Spanish (fair)
+		 German, French, Spanish (fair)
 
 Spoken: Italian (basic conversational); Spanish (basic conversational)
