@@ -12,7 +12,7 @@ emc16f@my.fsu.edu or evacarrara1@gmail.com
 # EDUCATION 
 * Ph.D. in Classics, Florida State University (2022)
 	* Dissertation: “[Cato in Cicero](https://evacarrara.github.io/evacarrara/research/): Reading Roman History in the Late Republic” 
-	* Director: Jessica Clark 
+	* Director: Jessica H. Clark 
 * Classical Summer School, the American Academy in Rome (2019)
 * M.A. in Classical Studies (Greek and Latin), Villanova University (2016)
 * B.A. in History, The College of New Jersey (2014) 
