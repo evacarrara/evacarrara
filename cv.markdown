@@ -5,8 +5,7 @@ permalink: /cv/
 ---
 ## EVA CARRARA
 
-Department of Classics 
-Florida State University
+Department of Classics -- Florida State University
 
 emc16f@my.fsu.edu or evacarrara1@gmail.com 
 
