@@ -19,5 +19,5 @@ Over on the blog, check out my preliminary project and results on Nonius Marcell
 
 ## Intellectual Property
 
-While I welcome and encourage collaboration on and free use of the Nonius project, please do not reproduce or cite the abstract of my dissertaion cited above without permission (Attribution-NonCommercial-NoDerivatives 4.0 International).
+While I welcome and encourage collaboration on and free use of the Nonius project, please do not reproduce or cite the abstract of my dissertation cited above without permission (Attribution-NonCommercial-NoDerivatives 4.0 International).
 

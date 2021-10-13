@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My site for collaboration and sharing the content of my doctoral work in Classics. Probably also cat pictures.
 baseurl: "/evacarrara" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fulviusmobilior
+twitter_username: 
 github_username:  evacarrara
 
 # Header nav
@@ -37,6 +37,8 @@ navigation_header:
   url: /blog/
 - title: CV
   url: /cv/
+- title: Current Research
+  url: /research/
 
 # Footer nav
 navigation_footer:
