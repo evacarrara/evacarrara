@@ -14,8 +14,8 @@ Tallahassee, FL, 32306-1510
 emc16f@my.fsu.edu or evacarrara1@gmail.com 
 
 # EDUCATION 
-* Ph.D. in Classics, Florida State University (2016 - 2022 expected)
-	* Dissertation in progress: “Cato in Cicero: Reading Roman History in the Late Republic”
+* Ph.D. in Classics, Florida State University (2022)
+	* Dissertation: “Cato in Cicero: Reading Roman History in the Late Republic” 
 	* Director: Jessica Clark 
 * Classical Summer School, the American Academy in Rome (2019)
 * M.A. in Classical Studies (Greek and Latin), Villanova University (2016)
@@ -27,7 +27,7 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 
 # CONFERENCE PRESENTATIONS
 
-* "Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative," upcoming, Feminism and Classics, May 19-22, 2022 (postponed from 2020 due to COVID-19)
+* "Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative," upcoming, [Feminism and Classics](https://femclas2020.wordpress.com/), May 19-22, 2022 (postponed from 2020 due to COVID-19)
 
 * "Creating Kyniska: The Reception of the First Female Olympic Victor," Annual Meeting of the [Association of Ancient Historians](https://classics.illinois.edu/research/conferences-and-workshops/2021-meeting-association-ancient-historians-held-uiuc), May 8, 2021
 
