@@ -14,7 +14,7 @@ Hello! I'm Eva, a lecturer of Classics at the University of Arizona. I completed
 
 Other interests of mine: birding, looking at mountains, hiking, kayaking, reading, and painting. Two cats frequently appear in my Zoom classes, Terry Gross and Meatball. Bonus cat content:
 
-![meatballandterry](/evacarrara/assets/cats.jpg) 
+![meatballandterry](/evacarrara/assets/cats.JPG) 
 
 
 
