@@ -5,9 +5,9 @@ permalink: /cv/
 ---
 ## EVA CARRARA
 
-Department of Classics -- Florida State University
+[Lecturer](https://classics.arizona.edu/people/carrara), Department of Religious Studies and Classics ---- University of Arizona
 
-emc16f@my.fsu.edu or evacarrara1@gmail.com 
+carrara@arizona.edu
 
 # EDUCATION 
 * Ph.D. in Classics, Florida State University (2022)
@@ -23,7 +23,9 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 
 # CONFERENCE PRESENTATIONS
 
-* "Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative," upcoming, [Feminism and Classics](https://femclas2020.wordpress.com/), May 19-22, 2022 (postponed from 2020 due to COVID-19)
+* "Cicero on the End of Cato the Elder’s Life," upcoming, SCS Annual meeting 2023
+
+* "Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative," [Feminism and Classics](https://femclas2020.wordpress.com/), May 22, 2022 (postponed from 2020 due to COVID-19)
 
 * "Creating Kyniska: The Reception of the First Female Olympic Victor," Annual Meeting of the [Association of Ancient Historians](https://classics.illinois.edu/research/conferences-and-workshops/2021-meeting-association-ancient-historians-held-uiuc), May 8, 2021
 
@@ -47,6 +49,12 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 * TCNJ, Allan Gotthelf Prize. Awarded to a graduating senior who excels in ancient coursework (2014)
 
 # TEACHING EXPERIENCE
+
+#### UNIVERSITY OF ARIZONA
+* Classical Mythology (2 sections)
+	* Fall 2022
+* Word Roots: Scientific and Medical Terminology (online, 2 sections)
+	* Fall 2022
 
 #### LANGUAGE COURSES (SOLE INSTRUCTOR, FLORIDA STATE UNIVERSITY):
 * Beginning Latin I
