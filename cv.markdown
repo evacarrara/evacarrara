@@ -5,9 +5,9 @@ permalink: /cv/
 ---
 ## EVA CARRARA
 
-[Lecturer](https://www.jmu.edu/history/people/all-people/carrara-eva.shtml), Department of History ---- James Madison University
+[Assistant Professor](https://www.jmu.edu/history/people/all-people/carrara-eva.shtml), Department of History --- James Madison University
 
-carrara@arizona.edu
+carrarem@jmu.edu
 
 # EDUCATION 
 * Ph.D. in Classics, Florida State University (2022)
@@ -20,6 +20,9 @@ carrara@arizona.edu
 
 # ACADEMIC INTERESTS
 Greek and Latin historiography; Roman cultural history; ancient gender and sexuality; digital humanities
+
+# PUBLICATIONS
+* Carrara, Eva. 2023. "Creating and Contesting Kyniska: The Reception of the First Female Olympic Victor," *Antichthon* 57, pp. 18-34. https://doi.org/10.1017/ann.2023.6
 
 # CONFERENCE PRESENTATIONS
 
