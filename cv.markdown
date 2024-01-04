@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## EVA CARRARA
 
-[Lecturer](https://classics.arizona.edu/people/carrara), Department of Religious Studies and Classics ---- University of Arizona
+[Lecturer](https://www.jmu.edu/history/people/all-people/carrara-eva.shtml), Department of History ---- James Madison University
 
 carrara@arizona.edu
 
@@ -23,7 +23,7 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 
 # CONFERENCE PRESENTATIONS
 
-* "Cicero on the End of Cato the Elder’s Life," upcoming, SCS Annual meeting 2023
+* "Cicero on the End of Cato the Elder’s Life," SCS Annual meeting 2023
 
 * "Deadly Dress-Up: Perseus and Demetrius as Readers of the Textual Body in Livy’s Macedonian Narrative," [Feminism and Classics](https://femclas2020.wordpress.com/), May 22, 2022 (postponed from 2020 due to COVID-19)
 
@@ -50,6 +50,12 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 
 # TEACHING EXPERIENCE
 
+#### JAMES MADISON UNIVERSITY
+* Ancient Mediterranean (4 sections)
+	* Fall 2023, Spring 2024
+* The Roman Republic (seminar)
+	* Spring 2024
+
 #### UNIVERSITY OF ARIZONA
 * Classical Mythology (2 sections)
 	* Fall 2022
@@ -74,25 +80,6 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 * Ancient Mythology: East and West
 	* Spring 2020
 
-#### AS TEACHING ASSISTANT:
-* Medical Terminology (online) 
-	* Summer 2020, FSU
-* Intermediate Latin
-	* Spring 2016, Villanova University
-* Women in the Classical World
-	* Fall 2015, Villanova University
-
-#### AS TUTOR: 
-* Greek and Latin 
-	* 2015- present, privately
-	* 2014 – 2015, Villanova University
-
-# ADDITIONAL EXPERIENCE
-
-* Volunteer, Open Greek and Latin Project, CHS (Summer 2021)
-* Department Representative, FSU, Graduate Assistants United (2018 – present)
-* Research Assistant, Prof. Francis Cairns (Fall 2016)
-* Certification, Program in Instructional Excellence, FSU (2016)
 
 # PROFESSIONAL MEMBERSHIPS 
 
@@ -101,9 +88,4 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 * Society for Classical Studies
 * Women’s Classical Caucus
 
-# LANGUAGES
 
-Reading: Latin, Ancient Greek, Italian (advanced)
-		 German, French, Spanish (fair)
-
-Spoken: Italian (basic conversational); Spanish (basic conversational)
