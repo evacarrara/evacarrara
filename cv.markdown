@@ -19,12 +19,13 @@ carrarem@jmu.edu
 	* Minor in Classical Studies
 
 # ACADEMIC INTERESTS
-Greek and Latin historiography; Roman cultural history; ancient gender and sexuality; digital humanities
+Greek and Latin historiography; Roman cultural history; ancient gender and sexuality; classical reception; digital humanities
 
 # PUBLICATIONS
 * Carrara, Eva. 2023. "Creating and Contesting Kyniska: The Reception of the First Female Olympic Victor," *Antichthon* 57, pp. 18-34. https://doi.org/10.1017/ann.2023.6
 
 # CONFERENCE PRESENTATIONS
+* “Cato the Elder in the Semideus of Catone Sacco,” 15th Celtic Conference in Classics, Cardiff University, July 11, 2024
 
 * "Cicero on the End of Cato the Elder’s Life," SCS Annual meeting 2023
 
@@ -54,10 +55,16 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 # TEACHING EXPERIENCE
 
 #### JAMES MADISON UNIVERSITY
-* Ancient Mediterranean (4 sections)
-	* Fall 2023, Spring 2024
+* Ancient Mediterranean
+	* Fall 2023, Spring 2024, Fall 2024
 * The Roman Republic (seminar)
 	* Spring 2024
+* Sex and Gender in the Ancient Near East and Mediterranean
+	* Fall 2024
+* The Roman Empire
+	* Spring 2025
+* World History to 1500
+	* Spring 2025
 
 #### UNIVERSITY OF ARIZONA
 * Classical Mythology (2 sections)

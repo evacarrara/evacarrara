@@ -3,8 +3,11 @@ layout: page
 title: Current Research
 permalink: /research/
 ---
+# Current Projects
 
-# Abstract: Cato in Cicero: Reading Roman History in the Late Republic
+I am currently working on a monograph, *A Cultural History of Cato the Elder: Making the Roman Past in the Late Republic*, which builds on and expands my dissertation. More on that soon, but you can find the dissertation abstract below.
+
+# Dissertation Abstract: Cato in Cicero: Reading Roman History in the Late Republic
 
 This dissertation explores Cicero’s reception of Cato the Elder, particularly in respect to his fragmentary history of Rome and Italy, the *Origines*. I revisit commonly held conceptions about Cato’s style, aims, and influences which I suggest are owed more to the transmission history of the fragments than to Cato’s intent and authorial agency. I rely on philological and digital methodologies to catalog and analyze Cicero’s engagement with Cato’s writings, but I focus particularly on the dialogues written from the mid-50s BCE until the end of Cicero’s life. In a departure from previous approaches to the research problem, which center authorial intent or remove Cato’s fragments from their transmission context, I focus on reader responses to Cicero’s Cato. I both analyze Cicero’s citation of Cato as form of reading, and consider how readers in the Late Republic, many of whom were interested in Cato, would in turn read Cicero’s Cato as compared to their external knowledge of Cato’s life, career, and writings. I suggest that Cicero’s representations of Cato would not have been accepted by all ancient readers, and that we should thus expect a variety of potential responses to Cicero’s uses of Cato. I thus argue that readers, including Cicero’s audience and Cicero himself, fundamentally shape Cato’s image as a historian. Relying on the work of scholars who suggest that citations may provoke skeptical reader responses in fictional narratives, and also that we can understand the fictionalized interlocutors in Cicero’s dialogues as an internal audience analogous to Cicero’s readers, I analyze potential responses to Cicero’s citations both of Cato and in Cato’s voice. In this way, we can better understand the reception of Cato the Elder and the place of his Origines, the earliest Latin history, in the cultural and intellectual history of the Roman world.
 
