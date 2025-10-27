@@ -11,15 +11,10 @@ carrarem@jmu.edu
 
 # EDUCATION 
 * Ph.D. in Classics, Florida State University (2022)
-	* Dissertation: “[Cato in Cicero](https://evacarrara.github.io/evacarrara/research/): Reading Roman History in the Late Republic” 
-	* Director: Jessica H. Clark 
 * Classical Summer School, the American Academy in Rome (2019)
 * M.A. in Classical Studies (Greek and Latin), Villanova University (2016)
 * B.A. in History, The College of New Jersey (2014) 
 	* Minor in Classical Studies
-
-# ACADEMIC INTERESTS
-Greek and Latin historiography; Roman cultural history; ancient gender and sexuality; classical reception; digital humanities
 
 # PUBLICATIONS
 * Carrara, Eva. 2023. "Creating and Contesting Kyniska: The Reception of the First Female Olympic Victor," *Antichthon* 57, pp. 18-34. https://doi.org/10.1017/ann.2023.6
@@ -50,52 +45,32 @@ Greek and Latin historiography; Roman cultural history; ancient gender and sexua
 * FSU Congress of Graduate Students Travel Grant (2018) 
 * FSU Department of Classics Travel Grant (2018)
 * Villanova University, Tuition Scholar (2014 – 2016)
-* TCNJ, Allan Gotthelf Prize. Awarded to a graduating senior who excels in ancient coursework (2014)
 
 # TEACHING EXPERIENCE
 
 #### JAMES MADISON UNIVERSITY
 * Ancient Mediterranean
-	* Fall 2023, Spring 2024, Fall 2024
-* The Roman Republic (seminar)
-	* Spring 2024
 * Sex and Gender in the Ancient Near East and Mediterranean
-	* Fall 2024
 * The Roman Empire
-	* Spring 2025
+* The Roman Republic Research Seminar
 * World History to 1500
-	* Spring 2025
+* Problems in Greek History
+* Graduate Seminar in Ancient Slavery
 
 #### UNIVERSITY OF ARIZONA
-* Classical Mythology (2 sections)
-	* Fall 2022
-* Word Roots: Scientific and Medical Terminology (online, 2 sections)
-	* Fall 2022
+* Classical Mythology 
+* Word Roots: Scientific and Medical Terminology
+* Roman Empire: Rulers and Ruled
+* Intermediate Latin sequence
 
-#### LANGUAGE COURSES (SOLE INSTRUCTOR, FLORIDA STATE UNIVERSITY):
+#### SOLE INSTRUCTOR, FLORIDA STATE UNIVERSITY
 * Beginning Latin I
-	* Spring 2017, Summer 2018
 * Beginning Latin II
-	* Summer 2017
 * Introduction to Latin Literature (intermediate/3rd semester)
-	* Fall 2017, Spring 2018, Fall 2018, remotely Fall 2020 and Spring 2021
 * Readings in Greek Literature (Lucian)
-	* Summer 2021
-
-#### LECTURE COURSES (SOLE INSTRUCTOR, FLORIDA STATE UNIVERSITY):
 * Debates About the Past: Roman Civilization, History, and Culture 
-	* Spring 2019
 * History of Ancient Rome
-	* Fall 2019
 * Ancient Mythology: East and West
-	* Spring 2020
 
-
-# PROFESSIONAL MEMBERSHIPS 
-
-* Association of Ancient Historians
-* Classical Association of the Middle West and South
-* Society for Classical Studies
-* Women’s Classical Caucus
 
 
