@@ -13,11 +13,11 @@ permalink: /cv/
 * M.A. in Classical Studies (Greek and Latin), Villanova University (2016)
 
 # PUBLICATIONS
-* Carrara, Eva. 2027. "How to Defeat Your Enemies (and Critics): Commemoration, Criticism and Competition in Cato the Elder's *De re militari.* *Classical Journal*. Expected 122.4.
+* Carrara, Eva. 2027. "How to Defeat Your Enemies (and Critics): Commemoration, Criticism and Competition in Cato the Elder's *De re militari,*" *Classical Journal* (expected) 122.4.
 * Carrara, Eva. 2023. "Creating and Contesting Kyniska: The Reception of the First Female Olympic Victor," *Antichthon* 57, pp. 18-34. https://doi.org/10.1017/ann.2023.6
 
 # SELECTED CONFERENCE PRESENTATIONS AND INVITED TALKS
-* "The Numismatic Legacy of Cato the Elder," Classical Association of Virginia, 2026
+* "The Numismatic Legacy of Cato the Elder," Classical Association of Virginia meeting, 2026
 
 * "Body Horror in Orosius' Social War Narrative," SCS annual meeting, 2026
 

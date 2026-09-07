@@ -6,7 +6,7 @@ permalink: /about/
 
 # *Negotium* 
 
-Hello! I'm Eva, an assistant professor of ancient history and advisor to the classical studies minor at James Madison University. I completed my PhD in Classics at Florida State University. My main academic interests are Greek and Roman historiography, Roman cultural history and ancient sex and gender. My [first book project](https://evacarrara.github.io/evacarrara/research/) offers a broad overview of late Republican debates about the reception of Cato the Elder. On this [site](https://evacarrara.github.io/evacarrara/blog/) I have posted some of my preliminary data, results, and musings from a project that aims to consider Nonius Marcellus as recorder of fragmentary history and to make a plain text version of his work accessible.
+Hello! I'm Eva, an assistant professor of ancient history and advisor to the classical studies minor at James Madison University. I completed my PhD in Classics at Florida State University. My main academic interests are Greek and Roman historiography, Roman cultural history and ancient gender. My [first book project](https://evacarrara.github.io/evacarrara/research/) offers a broad overview of late Republican debates about the reception of Cato the Elder. On this [site](https://evacarrara.github.io/evacarrara/blog/) I have posted some of my preliminary data, results, and musings from a project that aims to consider Nonius Marcellus as recorder of fragmentary history and to make a plain text version of his work accessible.
 
 ![gradpic](/evacarrara/assets/grad.jpg) 
 
